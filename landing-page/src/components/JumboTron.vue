@@ -12,7 +12,7 @@
         that I understand the basic concepts of both these frameworks.
         Feel free to ask me any questions!
         </p>
-        <button type="button" class="btn btn-primary">Click Me!</button>
+        <a type="button" class="btn btn-primary" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click Me!</a>
       </div>
     </div>
   </div>
