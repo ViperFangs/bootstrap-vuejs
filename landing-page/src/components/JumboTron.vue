@@ -2,9 +2,9 @@
   <div class="container my-5">
     <div class="row">
       <div class="col-md-7">
-        <img src="https://picsum.photos/600/400" alt="picsum photos" />
+        <img src="https://www.karglobal.com/wp-content/uploads/2020/03/KAR-Global-for-website.png" alt="KAR Global" class="img-fluid rounded mx-auto d-block"/>
       </div>
-      <div class="col-md-5">
+      <div class="col-md-5 mt-auto mb-auto">
         <h1 class="font-weight-light">KAR Global</h1>
         <p class="mt-4">
         This is a Bootstrap + VueJS Landing Page. 
