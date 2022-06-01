@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container my-5">
     <div class="row">
       <div class="col-md-7">
         <img src="https://picsum.photos/600/400" alt="picsum photos" />
