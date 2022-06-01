@@ -1,16 +1,19 @@
 <template>
   <div id="app">
-    <NavBar msg="Welcome to Your Vue.js App"/>
+    <NavBar />
+    <JumboTron />
   </div>
 </template>
 
 <script>
 import NavBar from './components/NavBar.vue'
+import JumboTron from './components/JumboTron.vue'
 
 export default {
   name: 'App',
   components: {
-    NavBar
+    NavBar,
+    JumboTron,
   }
 }
 </script>
