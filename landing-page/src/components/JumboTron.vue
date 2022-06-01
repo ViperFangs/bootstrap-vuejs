@@ -12,6 +12,7 @@
         that I understand the basic concepts of both these frameworks.
         Feel free to ask me any questions!
         </p>
+        <button type="button" class="btn btn-primary">Click Me!</button>
       </div>
     </div>
   </div>
