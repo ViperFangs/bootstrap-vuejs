@@ -4,6 +4,7 @@
     <JumboTron />
     <CTA />
     <ContentCards />
+    <FooterBar />
   </div>
 </template>
 
@@ -12,6 +13,7 @@ import NavBar from './components/NavBar.vue'
 import JumboTron from './components/JumboTron.vue'
 import CTA from './components/CTA.vue'
 import ContentCards from './components/ContentCards.vue'
+import FooterBar from './components/FooterBar.vue'
 
 export default {
   name: 'App',
@@ -20,6 +22,7 @@ export default {
     JumboTron,
     CTA,
     ContentCards,
+    FooterBar,
   }
 }
 </script>
